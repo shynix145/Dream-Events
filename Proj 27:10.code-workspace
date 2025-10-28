@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Cour CSS",
+			"path": ".."
+		},
+		{
+			"name": "Enonce",
+			"path": "../../../Downloads/Enonce"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cour CSS"
+	}
+}

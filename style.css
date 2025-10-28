@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(41, 206, 176);
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h1{
+    padding-top: 40px;
+    padding-bottom: 15px;
+    font-size: 40px;
+    color: rgb(43, 42, 129);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+
+#presentation{
+    height: 40vh;
+    background: url(.//image/married.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+#presentation h2{
+    padding-top: 90px;
+    padding-bottom: 40px;
+    color: white;
+}
+
+#presentation p{
+    margin: auto;
+    color: white;
+    width: 650px;
+}
+
+#services{
+    background-color: rgb(216, 208, 187);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+
+.image{
+    width: 70vh;
+}
+
+.service-card{
+    background-color: white;
+    width: 70vh;
+    margin: auto;
+    border-radius: 5%;
+}
+
+.service-content h3{
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.service-content p{
+    margin: auto;
+    width: 68vh;
+    text-align: justify;
+    padding-bottom: 30px;
+}
+
+.service-content h3{ 
+    text-align: left;
+    padding-left: 9px;
+}
+
+#contact{
+    background-color: rgba(16, 16, 151, 0.767);
+    padding-top: 20px;
+    padding-bottom:20px ;
+    text-align: center;
+
+}
+
